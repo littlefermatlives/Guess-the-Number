@@ -5,4 +5,4 @@ Simple game to find a number, Each time when you guess a number you will be told
 ### Key Idea
 The main idea is to apply binary search. You will get to know how binary search works.
 \
-Thank You s
+Thank You 
